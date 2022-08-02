@@ -1,0 +1,31 @@
+.campo-formulario {
+    margin-bottom: 7px;
+    width: 100%;
+    border-bottom: 10px;
+}
+
+.cabecalho {
+    text-align: center;
+    background-color: rgb(110, 110, 245);
+    height: 150;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica;
+    font-size: 30px;
+    padding: 40px;
+}
+
+.content{
+    background-color: lightblue;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.formulario {
+	margin-inline: 30%;
+    font-family: Georgia, 'Times New Roman', Times;
+}
+
+.confirma {
+    padding-top: 20px;
+}
